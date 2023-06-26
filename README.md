@@ -3,6 +3,8 @@
 ## Dashboard
 [Click here to see the Vendor Performance Dasboard](https://app.powerbi.com/view?r=eyJrIjoiNWU0ZTFkNjItYjFlZC00OGUwLWIyMDEtYmI0MWZmNDNmNDVlIiwidCI6IjM1NDMyZDE1LTZjMGYtNDVhZS1iYzg5LTMzOGIwMGJlYmJiYSIsImMiOjh9)
 
+[Click here to see the Findings and Analysis Presentation](https://www.canva.com/design/DAFmUSfYgTc/_Ynnr-AQdzlfUa0ZMFzRUg/view?utm_content=DAFmUSfYgTc&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+
 **Tools used: Microsoft SQL Server, Microsoft PowerBI, Canva**
 
 ![image](https://github.com/natalieanalyst/Vendor-Performance-Analysis/assets/113878177/8eeb0fa5-ae00-40de-ab6f-0f196d21cff4)
